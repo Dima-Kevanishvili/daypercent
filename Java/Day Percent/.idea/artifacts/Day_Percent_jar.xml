@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Day Percent:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Day_Percent_jar</output-path>
+    <root id="archive" name="Day Percent.jar">
+      <element id="module-output" name="Day Percent" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/joda-time-2.10.1/joda-time-2.10.1.jar" path-in-jar="/" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/joda-time-2.10.1/joda-time-2.10.1.jar" />
+    </root>
+  </artifact>
+</component>

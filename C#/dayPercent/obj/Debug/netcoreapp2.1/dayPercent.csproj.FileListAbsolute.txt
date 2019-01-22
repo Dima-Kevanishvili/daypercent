@@ -1,0 +1,11 @@
+/Users/nefelibata/Projects/dayPercent/dayPercent/bin/Debug/netcoreapp2.1/dayPercent.deps.json
+/Users/nefelibata/Projects/dayPercent/dayPercent/bin/Debug/netcoreapp2.1/dayPercent.runtimeconfig.json
+/Users/nefelibata/Projects/dayPercent/dayPercent/bin/Debug/netcoreapp2.1/dayPercent.runtimeconfig.dev.json
+/Users/nefelibata/Projects/dayPercent/dayPercent/bin/Debug/netcoreapp2.1/dayPercent.dll
+/Users/nefelibata/Projects/dayPercent/dayPercent/bin/Debug/netcoreapp2.1/dayPercent.pdb
+/Users/nefelibata/Projects/dayPercent/dayPercent/obj/Debug/netcoreapp2.1/dayPercent.csprojAssemblyReference.cache
+/Users/nefelibata/Projects/dayPercent/dayPercent/obj/Debug/netcoreapp2.1/dayPercent.csproj.CoreCompileInputs.cache
+/Users/nefelibata/Projects/dayPercent/dayPercent/obj/Debug/netcoreapp2.1/dayPercent.AssemblyInfoInputs.cache
+/Users/nefelibata/Projects/dayPercent/dayPercent/obj/Debug/netcoreapp2.1/dayPercent.AssemblyInfo.cs
+/Users/nefelibata/Projects/dayPercent/dayPercent/obj/Debug/netcoreapp2.1/dayPercent.dll
+/Users/nefelibata/Projects/dayPercent/dayPercent/obj/Debug/netcoreapp2.1/dayPercent.pdb
